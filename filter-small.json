@@ -1,0 +1,13 @@
+{
+  "max_slippage_bp": 1000,
+  "mint_input": 5.0,
+  "route_input": 5.0,
+  "venues_input": {
+    "MeteoraCpmm": 5.0,
+    "MeteoraDlmm": 50.0,
+    "OrcaAmmV1": 5.0,
+    "OrcaAmmV2": 5.0,
+    "RaydiumAmm": 5.0,
+    "Whirlpool": 15.0
+  }
+}

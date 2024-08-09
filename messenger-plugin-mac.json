@@ -1,0 +1,6 @@
+{
+  "libpath": "../target/debug/libmessenger.dylib",
+  "accounts_selector": {
+    "accounts": []
+  }
+}

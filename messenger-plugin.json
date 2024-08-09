@@ -1,0 +1,6 @@
+{
+  "libpath": "../target/debug/libmessenger.so",
+  "accounts_selector": {
+    "accounts": []
+  }
+}
