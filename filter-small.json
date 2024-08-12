@@ -4,10 +4,11 @@
   "route_input": 5.0,
   "venues_input": {
     "MeteoraCpmm": 5.0,
-    "MeteoraDlmm": 50.0,
+    "MeteoraDlmm": 15.0,
     "OrcaAmmV1": 5.0,
     "OrcaAmmV2": 5.0,
     "RaydiumAmm": 5.0,
+    "Saber": 5.0,
     "Whirlpool": 15.0
   }
 }
